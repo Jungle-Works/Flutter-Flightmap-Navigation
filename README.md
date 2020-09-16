@@ -1,4 +1,4 @@
-# flutter_mapbox_navigation
+# flutter_flightmap_navigation
 
 Add Turn By Turn Navigation to Your Flutter Application Using FlightMap. Never leave your app when you need to navigate your users to a location.
 

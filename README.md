@@ -77,10 +77,3 @@ Add Turn By Turn Navigation to Your Flutter Application Using FlightMap. Never l
 ![Navigation View](screenshots/screenshot1.png?raw=true "iOS View") | ![Android View](screenshots/screenshot2.png?raw=true "Android View")
 |:---:|:---:|
 | iOS View | Android View |
-
-## To Do
-* [DONE] Android Implementation
-* [DONE] Add more settings like Navigation Mode (driving, walking, etc)
-* [DONE] Stream Events like relevant navigation notifications, metrics, current location, etc. 
-* Embeddable Navigation View 
-* Provide physical address instead of just coordinates to remove reliance on other geolocation packages
